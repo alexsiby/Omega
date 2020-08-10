@@ -3,15 +3,15 @@
 
 ///Edit Under This
 
-var firebaseConfig = {
-  apiKey: "api-key",
-  authDomain: "project-id.firebaseapp.com",
-  databaseURL: "https://project-id.firebaseio.com",
-  projectId: "project-id",
-  storageBucket: "project-id.appspot.com",
-  messagingSenderId: "sender-id",
-  appId: "app-id",
-  measurementId: "G-measurement-id",
+const firebaseConfig = {
+  apiKey: "AIzaSyD3NsjqBsczmv7q5D0GDrARtSfJ2hNwobM",
+  authDomain: "free-dimond-11b27.firebaseapp.com",
+  databaseURL: "https://free-dimond-11b27.firebaseio.com",
+  projectId: "free-dimond-11b27",
+  storageBucket: "free-dimond-11b27.appspot.com",
+  messagingSenderId: "619608440071",
+  appId: "1:619608440071:web:b88b9c5f7a64e49fd219a2",
+  measurementId: "G-054E94ZBJJ"
 };
 
      
